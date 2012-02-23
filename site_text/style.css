@@ -1,0 +1,40 @@
+@charset "utf-8";
+.header_table_logo {
+	height: 160px;
+	background-color: #565656;
+	background-position: left center;
+}
+.header_logo {
+	background-image: url(../images/logo.jpg);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+.ueberschriften {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #666666;
+}
+
+.header_navigation {
+	height: 22px;
+	width: 900px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CC071E;
+	background-color: #FFFFFF;
+}
+.login {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CC071E;
+}
+.ac {
+	font-weight: bold;
+	color: #000000;
+}
+.i {
+	font-weight: bold;
+	color: #CC0000;
+}
